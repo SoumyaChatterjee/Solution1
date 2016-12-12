@@ -16,7 +16,7 @@ int main()
 		cin >> arr[i];
 	}
 
-	cout << endl << "enter sum: " << endl;
+	cout << endl << "enter sum:: " << endl;
 	cin >> sum;
 
 	for (int i = 0; i < 5; i++)
