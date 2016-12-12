@@ -7,7 +7,7 @@ using namespace std;
 
 int main()
 {
-	cout << "enter 5 digits in ascending order" << endl;
+	cout << "enter 5 digits in ascending order::" << endl;
 	int arr[5], sum;
 	bool noIsThere = false;
 
